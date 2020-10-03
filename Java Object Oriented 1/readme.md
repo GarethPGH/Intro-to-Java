@@ -1,0 +1,1 @@
+A collection of assignments from the Object Oriented Java 1 class
