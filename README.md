@@ -1,14 +1,10 @@
 # Intro-to-Java
-  
-Started Learning Java for an Associate's Degree in May 2020
-  
-
-From <i>"Starting Out With Java; From Control Structures to Objects"</i> by Tony Gaddis
-  
-   
-Answers to selected questions, and extra credit applications as per professor's instructions.
-  
-  
-Did not buy the book with the answer keys, or additional "My Programming Lab" exercises, just the pdf. 
-These are all my own design. 
+  <br>
+  <br>
+  Repo contains coursework from the CIT_111 class Introduction to Java
+  and coursework for CIT-130 Object Oriented Java 1
+  Descriptive readme for coursework contents in the respective folders
+  <br>
+  <br>
+  Folder to be updated at end of Object Oriented Java 2
   
